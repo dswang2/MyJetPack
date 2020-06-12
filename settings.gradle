@@ -1,2 +1,3 @@
 rootProject.name='MyJetpack'
 include ':app'
+include ':libnetwork'
