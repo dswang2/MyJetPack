@@ -1,5 +1,4 @@
-Jetpack全组件实战
-https://coding.imooc.com/learn/list/402.html
+[Jetpack全组件实战](https://coding.imooc.com/learn/list/402.html)
 
 # 一级标题
 ## 二级标题
@@ -17,7 +16,7 @@ https://coding.imooc.com/learn/list/402.html
 > 引用内容
 
 
-[链接百度](www.baidu.com)
+[链接百度](http://www.baidu.com)
 
 代码引用
 ```
